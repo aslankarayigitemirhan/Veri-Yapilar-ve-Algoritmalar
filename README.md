@@ -1,21 +1,15 @@
 Bu kurs Ankara Yıldırım Beyazıt Üniversitesi TechnoSpace kulübünün verdiği "Veri Yapıları ve Algoritmalar" kursunun materyalleridir.
 Kurs Müfredatı ise şu şekilde planlanmaktadır:
 
-    Java Programlamanın Temelleri (Birkaç hafta kadar sürebilir)
-    Nesne Tabanlı Tasarım (2 Hafta)
-    Diziler ve Bağlı Listeler
-    Algoritmaların Analizi
-    Recursion (Özyineleme) 
-    Stack
-    Queues 
-    List Abstractions 
-    Tree Structures (Ağaç Yapıları) 
-    Heaps & Priority Queues 
-    Hash Tables 
-    Maps 
-    Skip Lists
-    Search Tree Structures 
-    String (Dizgiler) & Dynamic Programming 
-    Sorting 
-    Selection 
-    Graphs
+    Java Primer 
+    Object-Oriented Design
+    Fundamental Data Structures
+    Algorithm Analysis
+    Recursion 
+    Stack & Queues 
+    List and Iterator ADTs 
+    Trees
+    Priority Queues 
+    Maps & Hash Tables, and Skip Lists 
+    Search Trees 
+    Sorting & Selection
